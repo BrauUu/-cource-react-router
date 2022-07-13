@@ -18,6 +18,7 @@ const Content = props => {
                     path="*" 
                     element={
                         <main>
+                            <h2>Error 404</h2>
                             <p>Wrong route fella!</p>
                         </main>
                 }/>
